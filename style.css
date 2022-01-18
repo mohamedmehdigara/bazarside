@@ -1,5 +1,8 @@
 .PR {
   text-align: center;
   font-size: 60px;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-decoration: underline;
+  text-decoration-color: rgb(211, 16, 65);
+  
 }
