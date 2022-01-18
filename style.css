@@ -4,5 +4,12 @@
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   text-decoration: underline;
   text-decoration-color: rgb(211, 16, 65);
-  
+}
+
+.box {
+  margin: 0 auto;
+  width: 600px;
+  padding: 20px;
+  background: #f9f9f9;
+  border: 2px solid #333;
 }
